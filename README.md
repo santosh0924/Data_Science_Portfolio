@@ -1,2 +1,2 @@
 # Santosh Omprakash
-Welcome to my Data Sciene portfolio. 
+Welcome to my portfolio. I have worked on below Data Science projects. 
