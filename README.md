@@ -1,5 +1,8 @@
 # Santosh Omprakash
-Welcome to my Portfolio. Below are my projects on Data Science
+Welcome to my Portfolio
+
+## About
+I am Mainframe programmer and Analyst and have around 11 years of experience in Financial industry. I had great opportunity to puruse my Master in Data Science. Below are the project which I worked during my course. 
 
 ### Weather App:
 ### Project 2:
