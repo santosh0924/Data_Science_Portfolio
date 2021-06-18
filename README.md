@@ -2,7 +2,7 @@
 Welcome to my Portfolio
 
 ## About
-I am Mainframe Programmer & Analyst and have around 11 years of experience in Financial industry. I had great opportunity to puruse my Master in Data Science. Below are the project which I worked during my course. 
+I am Mainframe Programmer & Analyst and have around 11 years of experience in Financial industry. I had great opportunity to puruse my Master's in Data Science. Below are the project which I worked during my course. 
 
 ### Weather App:
 ### Project 2:
