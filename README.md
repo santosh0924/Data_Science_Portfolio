@@ -1,5 +1,5 @@
 # Santosh Omprakash
-Welcome to my portfolio. Below are my projects on Data Science
+Welcome to my Portfolio. Below are my projects on Data Science
 
 ### Weather App:
 ### Project 2:
