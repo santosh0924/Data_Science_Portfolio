@@ -10,4 +10,8 @@ I am Mainframe Programmer & Analyst and have around 11 years of experience in Fi
 4. [Credit Card Fraud Detection](https://github.com/santosh0924/Credit-Card-Fraud-Detection)
 5. [Hotel Booking Demand and Cancellation with Predictive Analytics](https://github.com/santosh0924/Hotel-Booking-Demand-and-Cancellation-with-Predictive-Analytics)
 6. [Airline Safety Data Presentation and Visualizaiton](https://github.com/santosh0924/DSC640---Data-presentation-and-Visualization)
+7. [Project 7]
+8. [Wine data Analysis and prediction]
+9. [Project 9]
+10.[Project 10]
 
