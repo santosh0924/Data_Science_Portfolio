@@ -11,5 +11,6 @@ I am Mainframe Programmer & Analyst and have around 11 years of experience in Fi
 5. [Hotel Booking Demand and Cancellation with Predictive Analytics](https://github.com/santosh0924/Hotel-Booking-Demand-and-Cancellation-with-Predictive-Analytics)
 6. [Poster on Fraud Detection using Machine Learning](https://github.com/santosh0924/Poster-on-Fraud-detection-using-Machine-Learning)
 7. [Airline Safety Data Presentation and Visualizaiton](https://github.com/santosh0924/DSC640---Data-presentation-and-Visualization)
+8. [Wine Quality Analysis and Prediction](https://github.com/santosh0924/Wine-Quality-Analysis-and-Prediciton)
 
 
