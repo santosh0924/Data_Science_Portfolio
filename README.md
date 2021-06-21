@@ -13,6 +13,6 @@ I am Mainframe Programmer & Analyst and have around 11 years of experience in Fi
 7. [Poster on Fraud Detection using Machine Learning](https://github.com/santosh0924/Poster-on-Fraud-detection-using-Machine-Learning)
 8. [Wine Quality Analysis and Prediction](https://github.com/santosh0924/Wine-Quality-Analysis-and-Prediciton)
 9. [Place holder 1](https://github.com/santosh0924/Place-holder-1)
-10.[Place holder 2](https://github.com/santosh0924/Place-holder-2)
+10. [Place holder 2](https://github.com/santosh0924/Place-holder-2)
 
 
