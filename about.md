@@ -3,13 +3,4 @@ layout: page
 title: About
 ---
 
-This is an about page about this awesome site.
-Hope you love it!
-
-Reasons:
-- its great.
-- its a test.
-
-## Other thoughts
-
-This is great.
+I am Mainframe Programmer & Analyst and have around 11 years of experience in Financial industry. I had great opportunity to puruse my Master's in Data Science. Below are the projects which I worked during my course.
