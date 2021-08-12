@@ -9,6 +9,6 @@ Welcome to my Data Science Portfolio
 7. [Poster on Fraud Detection using Machine Learning](https://github.com/santosh0924/Poster-on-Fraud-detection-using-Machine-Learning)
 8. [Wine Quality Analysis and Prediction](https://github.com/santosh0924/Wine-Quality-Analysis-and-Prediciton)
 9. [Fake News detection using Machine Learning](https://github.com/santosh0924/Fake-News-detection-using-Machine-Learning)
-10. [Place holder 2](https://github.com/santosh0924/Place-holder-2)
+10. [Employee Attrition Prediction](https://github.com/santosh0924/Place-holder-2)
 
 
